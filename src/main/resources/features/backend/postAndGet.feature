@@ -19,7 +19,3 @@ Scenario:2 HTTP Post
 	Given a url connection "http://dippy.trei.ro"
 	And I should get response code 200
  	Then I make post message with user: "demo" and password: "demopass"
-
-	
-	Scenario: all i do 
-	 Given i do something
