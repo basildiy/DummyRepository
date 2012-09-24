@@ -21,3 +21,5 @@ Scenario:2 HTTP Post
  	Then I make post message with user: "demo" and password: "demopass"
 
 	
+	Scenario: all i do 
+	 Given i do something
