@@ -43,7 +43,7 @@ public class PostAndGetSteps {
 	}
 
 	/**
-	 * Recive and output the recived message after the GET interogation
+	 * Receive and output the received message after the GET interrogation
 	 * 
 	 * @throws IOException
 	 */
@@ -57,8 +57,8 @@ public class PostAndGetSteps {
 	}
 
 	/**
-	 * Login with username and password sent as String param to url using POST
-	 * interogation
+	 * Login with user name and password sent as String parameter to url using POST
+	 * Interrogation
 	 * 
 	 * @param username
 	 * @param userpass
