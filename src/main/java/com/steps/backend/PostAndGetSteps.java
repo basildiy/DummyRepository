@@ -13,8 +13,7 @@ public class PostAndGetSteps {
 	private HttpURLConnection conn = null;
 
 	/**
-	 * Make connection to host
-	 * 
+	 * Make connection to host server
 	 * @param arg1
 	 * @throws IOException
 	 */
@@ -29,8 +28,7 @@ public class PostAndGetSteps {
 	}
 
 	/**
-	 * Verify the response code
-	 * 
+	 * Verify the response code that the server returns
 	 * @param desiredResponseCode
 	 * @throws IOException
 	 */
